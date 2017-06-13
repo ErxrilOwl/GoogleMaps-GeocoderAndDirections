@@ -1,3 +1,5 @@
 # GoogleMaps-GeocoderAndDirections
 
-### Note: change YOUR_API_KEY in the script tag with a key provided by google
+### Note: change the key in the script tag with a key provided by google
+
+[Sample Site]( https://erxrilowl.github.io/GoogleMaps-GeocoderAndDirections/)
